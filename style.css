@@ -1,0 +1,138 @@
+:root {
+    --primary-color: #0056b3;
+    --bg-color: #f4f4f9;
+    --card-bg: #ffffff;
+    --text-color: #333;
+    --correct-color: #d4edda;
+    --correct-border: #c3e6cb;
+    --wrong-color: #f8d7da;
+    --wrong-border: #f5c6cb;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--card-bg);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.question-card {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    transition: all 0.3s ease;
+}
+
+.question-text {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.options label {
+    display: block;
+    margin-bottom: 8px;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.options label:hover {
+    background-color: #f0f0f0;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Feedback Styles */
+.correct-answer-highlight {
+    background-color: var(--correct-color);
+    border: 1px solid var(--correct-border);
+    color: #155724;
+}
+
+.wrong-answer-highlight {
+    background-color: var(--wrong-color);
+    border: 1px solid var(--wrong-border);
+    color: #721c24;
+}
+
+.feedback-text {
+    font-size: 0.9em;
+    margin-top: 10px;
+    font-weight: bold;
+    display: block;
+}
+
+/* Controls */
+.controls {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #004494;
+}
+
+#retry-btn {
+    background-color: #6c757d;
+}
+
+#retry-btn:hover {
+    background-color: #5a6268;
+}
+
+/* Score Display */
+#score-display {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    border-top: 2px solid #eee;
+}
+
+.hidden {
+    display: none;
+}
+
+.loading {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}

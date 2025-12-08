@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Test</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Practice Certification Exam</h1>
+            <p>Select the best answer for each question below.</p>
+        </header>
+
+        <form id="quiz-form">
+            <div id="quiz-container">
+                <!-- Questions will be injected here by JavaScript -->
+                <p class="loading">Loading questions...</p>
+            </div>
+
+            <div class="controls">
+                <button type="button" id="submit-btn">Submit Test</button>
+                <button type="button" id="retry-btn" class="hidden">Retake Test</button>
+            </div>
+        </form>
+
+        <div id="score-display" class="hidden">
+            <h2>Your Score: <span id="score-value">0</span>%</h2>
+            <p id="score-message"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

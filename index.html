@@ -12,11 +12,11 @@
         <header>
             <h1>Practice Certification Exam</h1>
             <p>Select the best answer for each question below.</p>
+            <button type="button" id="shuffle-btn">Shuffle Questions</button>
         </header>
 
         <form id="quiz-form">
             <div id="quiz-container">
-                <!-- Questions will be injected here by JavaScript -->
                 <p class="loading">Loading questions...</p>
             </div>
 
@@ -29,6 +29,12 @@
         <div id="score-display" class="hidden">
             <h2>Your Score: <span id="score-value">0</span>%</h2>
             <p id="score-message"></p>
+            
+            <div id="wrong-answers-container" class="hidden">
+                <h3>Review Incorrect Answers:</h3>
+                <ul id="wrong-answers-list">
+                    </ul>
+            </div>
         </div>
     </div>
 

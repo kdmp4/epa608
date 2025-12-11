@@ -1,56 +1,86 @@
 Question,Option_A,Option_B,Option_C,Option_D,Correct_Answer
 "As environmental technicians, we must be up to date with which types of laws?",Local laws,State laws,Federal laws,All of these,D
 "For the EPA 608 Universal Certification, how many questions will you receive?",100,50,25,125,A
-"If you need to get Type III certification, which of the following will be on your exam?","50 questions - 25 Core questions and 25 Type III questions","100 questions - 25 from each Type","25 questions - Only Type III questions","50 questions - 25 Type I and 25 Type III questions",A
-"What is the passing grade for all EPA certifications?",70%,60%,80%,90%,A
-"Once you pass the EPA exam, the regulations you learned will never change.",True,False,,,B
-"Do natural events like volcanic eruptions contribute to chlorine in the stratosphere?","Yes, chlorine can come from natural sources such as volcanoes, but they are not the primary source","No, volcanoes do not release chlorine","Yes, and they are the only source of chlorine","No, chlorine only comes from refrigerants",A
-"Ground level ozone is what absorbs and reflects harmful UV rays from the sun.",True,False,,,B
-"In which of the following ways does ozone depletion affect humans?","Increased risk of skin cancer","Increased risk of cataracts","Both A and B","Neither A and B",C
-"Is there evidence that refrigerants are in the stratosphere?",Yes,No,,,A
-"Which of the following statements is TRUE about chlorine?","A single chlorine atom can survive in the atmosphere for years","Chlorine dissolves instantly in water","Chlorine is heavier than ozone and sinks immediately","Chlorine is harmless to the ozone layer",A
-"Ozone has __ atoms of oxygen.",3,2,1,4,A
-"The majority of ozone is located in the Troposphere.",True,False,,,B
+"If you need to get Type III certification, which of the following will be on your exam?",50 questions - 25 Core questions and 25 Type III questions,100 questions - 25 from each Type,25 questions - Only Type III questions,50 questions - 25 Type I and 25 Type III questions,A
+What is the passing grade for all EPA certifications?,70%,60%,80%,90%,A
+"Once you pass the EPA exam, the regulations you learned will never change. Is this statement True or False?",True,False,,,B
+Do natural events like volcanic eruptions contribute to chlorine in the stratosphere?,"Yes, chlorine can come from natural sources such as volcanoes, but they are not the primary source","No, volcanoes do not release chlorine","Yes, and they are the only source of chlorine","No, chlorine only comes from refrigerants",A
+Ground level ozone is what absorbs and reflects harmful UV rays from the sun. Is this statement True or False?,True,False,,,B
+In which of the following ways does ozone depletion affect humans?,Increased risk of skin cancer,Increased risk of cataracts,Both A and B,Neither A nor B,C
+Is there evidence that refrigerants are in the stratosphere?,Yes,No,,,A
+Which of the following statements is TRUE about chlorine?,A single chlorine atom can survive in the atmosphere for years,Chlorine dissolves instantly in water,Chlorine is heavier than ozone and sinks immediately,Chlorine is harmless to the ozone layer,A
+Ozone has __ atoms of oxygen.,3,2,1,4,A
+The majority of ozone is located in the Troposphere. Is this statement True or False?,True,False,,,B
 "How many molecules of ozone can ""three"" molecules of chlorine destroy?",300000,100000,600000,20000,C
-"What is the major function of ozone in the stratosphere?","Absorb and reflect UV rays from the sun","Regulate the earth's temperature","Provide oxygen for breathing","Filter out air pollutants",A
-"What is the primary source of chlorine in the Stratosphere?","Emissions of refrigerant chemicals such as CFCs and HCFCs by humans","Volcanic eruptions","Ocean spray","Industrial smoke stacks",A
-"Which element is primarily responsible for stratospheric ozone depletion?",Chlorine,Fluorine,Carbon,Hydrogen,A
-"Which of the following are effects of ozone depletion?","Decreasing crop yields","Increased global warming","More frequent hurricanes","Higher sea levels",A
-"Which refrigerant chemicals are responsible for the destruction of the ozone layer?",CFCs and HCFCs,HFCs and HFOs,"Ammonia and Propane","CO2 and Nitrogen",A
-"Who does ozone depletion affect?","People all over the world","Only people in the southern hemisphere","Only people near the poles","Only technicians handling refrigerants",A
-"The Clean Air Act states that it is a violation to purposely vent refrigerants that deplete ozone.",True,False,,,A
-"After a refrigerant is phased out, can technicians still service existing systems that use it?","Yes, if they are 608 certified and use recovered or reclaimed refrigerant","No, never","Yes, but only with new virgin refrigerant","Yes, but only for 1 year after phase-out",A
-"In 2025, a technician repairs an R-22 system and needs to add refrigerant to finish the job. Since new production and imports are banned, which sources are allowed for servicing this equipment?","From stock recovered R-22 refrigerant only if recovered from the same customer's system","From stock reclaimed R-22","Both A and B are correct","Virgin R-22 made before 2020",C
-"Can refrigerant be resold?","Yes, but only if it has been reclaimed to AHRI Standard 700 specifications","Yes, anytime","No, never","Only if it is virgin refrigerant",A
-"Equipment has to be certified to EPA standards in order to recover which of the following refrigerants?","CFCs","HCFCs","HFCs","All of the above",D
-"If you are selling R-22 refrigerant, who can you sell to?","A technician with Section 608 certification","A business that employs a technician with Section 608 certification","Both A and B","Anyone",C
-"If you recover R-12 refrigerant, can you use the recovered refrigerant in another device owned by a different person?","Yes, but only if it has been reclaimed to AHRI Standard 700 specifications","Yes, anytime","No, never","Yes, if both owners agree",A
-"In the United States, when were all CFCs phased out by?",1995,1996,2000,2020,A
-"In the United States, when were R-22 and R-142b phased out?",2020,2010,2030,"Never",A
-"In the United States, when will all HCFCs be phased out?",2030,2020,2040,"No final phase-out",A
-"Which of the following records must be kept for an R-22?","Type of refrigerant","Dates","Quantity of refrigerant","All of the above",D
-"Section 608 of the Clean Air Act is:",Federal law,"State law","Local law","Voluntary guideline",A
-"State and local regulations _______","Have to be followed in addition to federal CAA regulations","May be stricter than federal CAA regulations","Both A and B","Can be ignored if less strict",C
-"The Venting Prohibition requires that you recover affected refrigerant before:","Opening equipment","Servicing equipment","Disposing of equipment","All of the above",D
-"A scrap yard is taking in old rooftop units. Under Section 608, who must verify that all refrigerant has been removed before disposal?","The final person in the disposal chain","The original owner","The installing contractor","The EPA",A
-"What appliances do Section 608 regulations apply to?","Freezers","Air conditioners","Commercial refrigeration","All appliances with regulated refrigerants",D
-"What does SNAP stand for?","Significant New Alternatives Policy","Safe New Appliance Program","Substitute Notification and Approval Process","System New Alternative Protocol",A
-"On August 15, 2017, a contractor was cited for two separate Clean Air Act violations. Each violation persists for three consecutive days (Aug 15–17). Based on the 2017 penalty schedule, what is the maximum total civil fine?","$267,234","$133,617","$89,078","$44,539",A
-"What change did the 2016 Kigali Amendment make to the Montreal Protocol?","Added a global phase-down schedule for HFCs due to their climate impact","Banned all HCFCs","Only affected Europe","Made HFCs illegal immediately",A
-"What is the purpose of Section 608?","To protect the ozone layer","To regulate use of chemicals that deplete ozone","Both A and B","To reduce energy use",C
-"What is the purpose of SNAP?","To evaluate alternative refrigerants","To further the goals of the CAA","To consider effects of substitute refrigerants on humans","All of the above",D
-"What do you do if you discover that you have added Refrigerant B to a system that contained Refrigerant A? Consider that Refrigerant A is ozone-depleting.","Recover the mixture in a separate recovery cylinder","Return it to the supplier","Vent the mixture","Leave it in the system",A
-"Who can perform refrigerant recovery from small appliances prior to final disposal?","Any individual with proper equipment","Only Type I certified technicians","Only Universal technicians","Only the homeowner",A
-"What other appliances do Section 608 regulations apply to? Select the best answer.","Comfort cooling AC","Commercial refrigeration","Both of the above","None",C
-"What penalties can technicians face if they violate the Clean Air Act?","They may lose their Section 608 certification","They may face federal charges","They may be fined","All of the above",D
-"Which of the following scenarios are not considered de minimis releases?","A catastrophic rupture after the appliance was run far past the recommended service date","Releases when servicing a system because recovery was not done with certified equipment","Both A and B","Normal purging of low-loss hoses",C
-"Which of the following are excluded from Section 608 refrigerant management requirements?","Carbon dioxide","Water","Nitrogen","All of the above",D
-"Which of the following are violations of the CAA Venting Prohibition?","Release of refrigerants because appliances were not recovered","Refrigerants released when disconnecting non low-loss hoses to service an appliance","Both A and B","Purging with nitrogen",C
-"Which of the following are considered natural refrigerants?","R-290","R-600a","R-744","All of the above",D
-"Which of the following do you not need Section 608 certification to purchase?",Nitrogen,"R-22","R-410A","R-134a",A
-"Which of the following is a CFC?","R-11","R-12","Both A and B","R-22",C
-"Which of the following is an HCFC?","R-22","R-123","Both A and B","R-410A",C
-"Which of the following refrigerants does the Venting Prohibition cover?","CFCs, HCFCs, and HFCs","Only CFCs and HCFCs","Only CFCs","Only HFCs",A
-"Which organization can test your recovery equipment used to service a system with R-12?","EPA directly","An EPA-approved laboratory (e.g., AHRI/UL)","Both A and B","The manufacturer only",C
-"Who does not need to maintain proper records of refrigerants?","The EPA","Technicians","Owners of equipment >50 lbs","Wholesalers",A
-"Equipment that uses nitrogen as a refrigerant is not subject to Section 608 requirements.",True,False,,,A
+What is the major function of ozone in the stratosphere?,Absorb and reflect UV rays from the sun,Regulate the earth's temperature,Provide oxygen for breathing,Filter out air pollutants,A
+What is the primary source of chlorine in the Stratosphere?,Emissions of refrigerant chemicals such as CFCs and HCFCs by humans,Volcanic eruptions,Ocean spray,Industrial smoke stacks,A
+Which element is primarily responsible for stratospheric ozone depletion?,Chlorine,Fluorine,Carbon,Hydrogen,A
+Which of the following are effects of ozone depletion?,Decreasing crop yields,Increased global warming,More frequent hurricanes,Higher sea levels,A
+Which refrigerant chemicals are responsible for the destruction of the ozone layer?,CFCs and HCFCs,HFCs and HFOs,Ammonia and Propane,CO2 and Nitrogen,A
+Who does ozone depletion affect?,People all over the world,Only people in the southern hemisphere,Only people near the poles,Only technicians handling refrigerants,A
+The Clean Air Act states that it is a violation to purposely vent refrigerants that deplete ozone.,True,False,,,A
+"After a refrigerant is phased out, can technicians still service existing systems that use it?","Yes, if they are 608 certified and use recovered or reclaimed refrigerant",1995,2000,2010,A
+"In 2025, a technician repairs an R-22 system and needs to add refrigerant to finish the job. Since new production and imports are banned, which sources are allowed for servicing this equipment? (Select all that apply)",From stock recovered R-22 refrigerant only if recovered from the same customer's system,From stock reclaimed R-22,Both A and B,Neither A nor B,C
+Can refrigerant be resold?,"Yes, but only if it has been reclaimed to AHRI Standard 700 specifications",None of the above,Both A and B,Neither A nor B,A
+Equipment has to be certified to EPA standards in order to recover which of the following refrigerants? (Select all that apply),CFCs,HCFCs,HFCs,All of the above,D
+"If you are selling R-22 refrigerant, who can you sell to? (Select all that apply)",A technician with Section 608 certification,A business that employs a technician with Section 608 certification,Both A and B,Neither A nor B,C
+"If you recover R-12 refrigerant, can you use the recovered refrigerant in another device owned by a different person?","Yes, but only if it has been reclaimed to AHRI Standard 700 specifications",None of the above,Both A and B,Neither A nor B,A
+"In the United States, when were all CFCs phased out by?",1995,2000,2010,2020,A
+"In the United States, when were R-22 and R-142b phased out?",2020,1995,2000,2010,A
+"In the United States, when will all HCFCs be phased out?",2020,1995,2000,2010,A
+Which of the following records must be kept for an R-22? (Select all that apply),Type of refrigerant,Dates,Quantity of refrigerant,All of the above,D
+Section 608 of the Clean Air Act is:,Federal law,None of the above,Both A and B,Neither A nor B,A
+State and local regulations _______ (Select all that are true),Have to be followed in addition to federal CAA regulations,May be stricter than federal CAA regulations,Both A and B,Neither A nor B,C
+The Venting Prohibition requires that you recover affected refrigerant before (Select all that apply):,Opening equipment,Servicing equipment,Disposing of equipment,All of the above,D
+"A scrap yard is taking in old rooftop units. Under Section 608, who must verify that all refrigerant has been removed before disposal?",The final person in the disposal chain,The EPA,The transporter,The original owner,A
+What appliances do Section 608 regulations apply to?,Freezers,Toasters,Dishwashers,Blenders,A
+What does SNAP stand for?,Significant New Alternatives Policy,Safe New Alternatives Policy,Super New Alternatives Policy,Standard New Alternatives Policy,A
+"On August 15, 2017, a contractor was cited for two separate Clean Air Act violations. Each violation persists for three consecutive days (Aug 15–17). Based on the 2017 penalty schedule, what is the maximum total civil fine?","$267,234","$10,000","$25,000","$44,539",A
+What change did the 2016 Kigali Amendment make to the Montreal Protocol?,Added a global phase-down schedule for HFCs due to their climate impact,Banned R-22,Created Section 608,Established the EPA,A
+What is the purpose of Section 608? (Select all that apply),To protect the ozone layer,To regulate use of chemicals that deplete ozone,Both A and B,Neither A nor B,C
+What is the purpose of SNAP? (Select all that apply),To evaluate alternative refrigerants,To further the goals of the CAA,To consider effects of substitute refrigerants on humans,All of the above,D
+What do you do if you discover that you have added Refrigerant B to a system that contained Refrigerant A? Consider that Refrigerant A is ozone-depleting.,Recover the mixture in a separate recovery cylinder,None of the above,Both A and B,Neither A nor B,A
+Who can perform refrigerant recovery from small appliances prior to final disposal?,Any individual with proper equipment,Toasters,Dishwashers,Blenders,A
+What other appliances do Section 608 regulations apply to? Select the best answer.,Both of the above,Toasters,Dishwashers,Blenders,A
+What penalties can technicians face if they violate the Clean Air Act? (Select all that apply),They may lose their Section 608 certification,They may face federal charges,They may be fined,All of the above,D
+Which of the following scenarios are not considered de minimis releases? (Select all that apply),A catastrophic rupture after the appliance was run far past the recommended service date,Releases when servicing a system because recovery was not done with certified equipment,Both A and B,Neither A nor B,C
+Which of the following are excluded from Section 608 refrigerant management requirements? (Select all that apply),Carbon dioxide,Water,Nitrogen,All of the above,D
+Which of the following are violations of the CAA Venting Prohibition? (Select all that apply),Release of refrigerants because appliances were not recovered,Refrigerants released when disconnecting non low-loss hoses to service an appliance,Both A and B,Neither A nor B,C
+Which of the following are considered natural refrigerants? (Select all that apply),R-290,R-600a,R-744,All of the above,D
+Which of the following do you not need Section 608 certification to purchase?,Nitrogen,R-22,R-410A,R-134a,A
+Which of the following is a CFC? (Choose all that apply),R-11,R-12,Both A and B,Neither A nor B,C
+Which of the following is an HCFC? (Choose all that apply),R-22,R-11,R-12,R-134a,A
+Which of the following refrigerants does the Venting Prohibition cover?,"CFCs, HCFCs, and HFCs",None of the above,Both A and B,Neither A nor B,A
+Which organization can test your recovery equipment used to service a system with R-12?,Both (A) and (B),None of the above,Both A and B,Neither A nor B,A
+Who does not need to maintain proper records of refrigerants?,The EPA,Technician's home address,Copy of driver's license,Receipt of purchase,A
+Which of the following scenarios are not considered de minimis releases? (Select all that apply),A catastrophic rupture after the appliance was run far past the recommended service date,Releases when servicing a system because recovery was not done with certified equipment,Both A and B,Neither A nor B,C
+Equipment that uses nitrogen as a refrigerant is not subject to Section 608 requirements.,True,False,,,A
+What is the next component the refrigerant flows to after passing through the evaporator?,Compressor,Condenser,Metering Device,Evaporator,A
+"As the temperature of a liquid increases, what phase does it turn into?(Assume constant pressure)",Vapor,Pressure,Volume,Density,A
+Does the refrigerant change state in the compressor?,"No, it does not change state",None of the above,Both A and B,Neither A nor B,A
+"When pressure is increased on a liquid while keeping the temperature constant, what state can the substance change into?",Solid,Liquid,Vapor,Plasma,A
+The refrigerant absorbs heat from your indoor air in order to: (Select all that apply),Change state from liquid to vapor,Make your house cooler,Both A and B,Neither A nor B,C
+Which component has the opposite function to the condenser?,Evaporator,Compressor,Condenser,Metering Device,A
+What is the compressor’s job?,To increase the pressure,To increase pressure,To decrease pressure,To reject heat,A
+What is the condenser’s job?,To cool the high pressure vapor,To increase pressure,To decrease pressure,To reject heat,A
+What is the function of the metering device?,To decrease pressure,To increase pressure,To reject heat,To absorb heat,A
+What is the state of the refrigerant when it enters the condenser?,High pressure vapor,None of the above,Both A and B,Neither A nor B,A
+"Inside the metering device, what change does the refrigerant primarily undergo?",Pressure decreases while it remains a liquid,None of the above,Both A and B,Neither A nor B,A
+"When refrigerant exits the metering device, what state is it in?",Low pressure liquid,None of the above,Both A and B,Neither A nor B,A
+"Inside the compressor, what happens to the refrigerant?",Stays a vapor while pressure increases,None of the above,Both A and B,Neither A nor B,A
+"When the refrigerant enters the evaporator, what state is it in?",Liquid,Solid,Vapor,Plasma,A
+"When the refrigerant exits the evaporator, what state is it in?",Vapor,Solid,Liquid,Plasma,A
+What is the state of the refrigerant when it exits the evaporator?,Low pressure vapor,Solid,Liquid,Plasma,A
+Which of the following components are associated with the high-pressure side of the refrigeration system? (Select all that apply),Compressor,Condenser,Both A and B,Neither A nor B,C
+Which components change the refrigerant’s pressure? (Select all that apply),Compressor,Metering Device,Both A and B,Neither A nor B,C
+Which of the following states has the highest temperature? (Assume constant pressure),Vapor,Pressure,Volume,Density,A
+"At constant pressure, boiling requires the addition of heat.",True,False,,,A
+Condensation happens when a gas or vapor cools down and becomes liquid.,True,False,,,A
+"For the same substance and at the same pressure, the average speed of the molecules in a vapor is faster than the average speed of molecules in a liquid.",True,False,,,A
+"If we decrease the pressure of a substance, its boiling point decreases.",True,False,,,A
+"In the condenser, the refrigerant changes state.",True,False,,,A
+The boiling point is the temperature at which a substance changes from a liquid state to a vapor or gas state.,True,False,,,A
+The boiling point of most refrigerants is 212 °F.,True,False,,,B
+The vapor leaving the compressor is lower in pressure than vapor entering the compressor.,True,False,,,B
+"You are boiling a pot of water with the lid on. As the water heats up and starts to boil, you notice that drops of water form on the bottom of the pot lid. This is an example of condensation.",True,False,,,A
+Your air conditioning works by adding cold air into your house.,True,False,,,B

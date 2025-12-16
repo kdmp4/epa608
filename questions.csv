@@ -149,7 +149,7 @@ What is bubble point?,The temperature at which the first refrigerant in a blend 
 What is the definition of dew point?,The temperature at which the first refrigerant in a blend turns to liquid,The temperature at which the first refrigerant turns to vapor,The temperature at which the mixture boils,The triple point of the blend,A
 "A manufacturer lists a refrigerant mixture with R-32 (23%), R-125 (25%), and R-134a (52%). How is this blend classified?",Ternary blend,Binary blend,Azeotropic blend,Single substance,A
 Which of the following is considered retrofitting?,Modifying components of the system to use a new refrigerant,Reclaiming refrigerant,Recycling refrigerant,Recovering refrigerant,A
-Which of the following are reasons to not mix your own refrigerants?,It is illegal,It can cause equipment failure,The resulting mix has unpredictable temperatures,All of the above,D
+Which of the following are reasons to not mix your own refrigerants?,It voids equipment warranties,The pressure-temperature relationship is unknown,It may cause equipment failure,All of the above,D
 "If a refrigerant has a drop-in replacement, then no retrofit is needed.",True,False,,,A
 "In a zeotropic blend, all refrigerants have the same boiling point.",True,False,,,B
 R-407c is an azeotropic blend.,True,False,,,B
@@ -158,3 +158,13 @@ Refrigerant blends take on the ASHRAE number of the main refrigerant in the blen
 Technicians can make their own EPA-approved refrigerant blends.,True,False,,,B
 There are no drop-in replacements for R-22 refrigerant.,True,False,,,A
 There are no retrofit refrigerants for R-22.,True,False,,,B
+"Alkylbenzene (AB) oil is used for systems with which of the following refrigerants? (Select all that apply)",CFC,HCFC,HCFC blends,All of the above,D
+"A bottle of hygroscopic refrigerant oil is left uncapped on a humid day and then used in a system. What problem is most likely to show up first?",Water absorption causing ice blockages,Acid formation eating through copper,Compressor overheating,Oil turning into sludge,A
+"If we are retrofitting a system to use R-134a, which oil do we need to use?",Polyolester (POE),Alkylbenzene (AB),Mineral Oil (MO),Polyalkylene Glycol (PAG),A
+R-1234yf is not miscible with any refrigerant oils.,False,True,,,A
+Alkylbenzene (AB) oil is miscible in HCFC refrigerants.,True,False,,,A
+An ideal oil is best at handling only high temperatures and high pressures.,False,True,,,A
+An ideal oil is readily miscible with the refrigerant in the system.,True,False,,,A
+"Provided that the oil is non-flammable at both the initial and final temperatures, it is suitable for use since the system is enclosed.",False,True,,,A
+Hydrolysis is when refrigerant oils break down in the presence of water.,True,False,,,A
+Polyolester oils are great because they can mix with a lot of other oils.,False,True,,,A

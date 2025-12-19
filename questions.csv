@@ -213,3 +213,33 @@ Polyolester oils are great because they can mix with a lot of other oils.,False,
 "All Type I small appliances must be charged by the technician before first use.",True,False,,,B
 "We can retrofit an old appliance to operate on 2 lbs of R-600a.",True,False,,,B
 "We only have to recover refrigerants before servicing systems containing CFCs and HCFCs.",True,False,,,B
+"A near azeotropic blend will contain:","One saturation pressure value","One high saturation pressure value","Two saturation pressure values that are close","Two saturation pressure values that have a big difference",C
+"A zeotropic blend will contain:","One saturation pressure value","One high saturation pressure value","Two saturation pressure values that are close","Two saturation pressure values that have a big difference",D
+"Access fittings:","Need to be leak tested before recovering refrigerant","Are used to gain access to closed systems","Are used with window AC units","All of these",D
+"Defrost heaters:","Can be used to increase the temperature of refrigerant","Can be used to increase refrigerant recovery speed","Are available in all Type I appliances","None of these",A
+"If the compressor is not working and we are performing passive recovery, we need to take steps to do what?","Secure a recovery machine","Vacate the area","Ventilate the working space","Release trapped refrigerant from the compressor oil",D
+"If the pressure of the system is found to be 0 psig, can we recover refrigerant from the system?","Yes","No","It depends on how much refrigerant is left","It depends on the type of refrigerant",B
+"If the pressure reading and expected pressure are far apart, which of the following are possibly contained in the refrigerant?","Air","Water vapor","Nitrogen","All of these",D
+"A sealed household refrigerator has a working compressor and a blocked capillary tube. To recover the charge, what access setup is required?","One access valve on the high side only","Two access valves, one on each side","No access valves; pull through service port","One access valve on the low side only",A
+"Solderless piercing valves:","Tend to leak over time","Are for permanent use","Should not be left on the appliance after service","Both (a) and (c)",D
+"What does system-dependent recovery mean?","Removes only vapor","Uses separate recovery unit","Requires pump-down","Uses appliance compressor",D
+"We can use a known refrigerant’s PT chart to see if there are non-condensables in the refrigerant.","Always true","Only true if we can measure the refrigerant’s temperature","Only true if we can measure the refrigerant’s pressure","Only true if we can measure both the pressure and temperature",D
+"What is the approximate pressure of a storage container of R-22 that is stored at 75°F? Assume there are no impurities. PT Chart","131 psig","308 psig","78.8 psig","22 psig",A
+"What is the approximate pressure of a storage container of R-404a that is stored at 60°F? Assume there are no impurities. PT Chart","88.2 psig","108 psig","125.8 psig","269 psig",C
+"What should we do to recover refrigerant from a system with a compressor that is not working?","Tapping the compressor with the biggest a mallet to maximize surface area","Tapping the compressor with a rubber mallet so we don’t damage it","Heating it with a match","Heating it with a heating blanket",B
+"When performing active recovery and the compressor is working, we must recover to what levels?","90% of the refrigerant charge","4 inch vacuum","Both (a) and (b)","Either (a) or (b)",D
+"Which method of monitoring fill level is the most accurate?","Gross cylinder weight","Mechanical float device","Electronic shut off device","None of these",A
+"Which methods are approved by the EPA to monitor fill level of recovery cylinders?","Mechanical/ Internal Float Devices","Electronic Shut Off Devices","Gross cylinder weight","All of these",D
+"Which of the following are types of low loss fittings?","Solder type low loss fittings","Manual low loss fittings","Automatic low loss fittings","Hybrid low loss fittings",B
+"Which of the following values do we check if we suspect that non-condensables are present?","Refrigerant pressure","Humidity","Refrigerant type","Refrigerant weight",A
+"You are servicing an appliance that contains R-134a. Which of the following can you use to recover the refrigerant?","A recovery cylinder used for HCFC-22","A recovery cylinder used for HFC-134a","A disposable cylinder used for R-134a","A disposable cylinder used for R-22",B
+"We need separate recovery cylinders for each class of refrigerants (e.g. HCFCs). For example, we cannot use the same cylinders to recover CFC and HCFC refrigerants. But we can use the same cylinder to recover different HCFC refrigerants.",True,False,,,B
+"An active recovery machine is required for all systems. Passive recovery is a thing of the past.",True,False,,,B
+"For both active recovery and passive recovery, we must recover 80% of the appliance charge if the compressor is not working.",True,False,,,A
+"If a refrigerant’s pressure readings are not stable, we can use its temperature readings to compare to its PT chart to check for non-condensables.",True,False,,,B
+"Installing both high and low side access valves will increase recovery time.",True,False,,,B
+"Low loss fittings are only needed when recovering from appliances containing ODS and their substitutes.",True,False,,,B
+"Low loss fittings are required for servicing appliances containing CFCs, HCFCs, and HFCs because of the Venting Prohibition.",True,False,,,A
+"System dependent recovery captures refrigerant in a pressurized container to keep it fresh.",True,False,,,B
+"We generally want to leak test access fittings after refrigerant recovery to make sure it does not have leaks for the next service. This is to save us time from leak testing the access fitting the next time around.",True,False,,,B
+"When the compressor is not working and we are performing passive recovery, we need to access the system from both the high and low side.",True,False,,,A

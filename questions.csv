@@ -177,3 +177,39 @@ Polyolester oils are great because they can mix with a lot of other oils.,False,
 "When shipping refrigerants in hazard class 2.2, what information needs to be on the shipping paper?","Number of molecules in the cylinder","Number of times the refrigerant has been used","Number of refrigerants in the cylinder","Number of cylinders of each gas",D
 "Where can you find any safety-related information on refrigerants you’re handling?","Safety Information Sheets","Safety Data Sheets","Material Data Sheets","All of these",B
 "When sending used refrigerants to be reclaimed, you must use disposable refrigerant cylinders.",True,False,,,B
+"Contaminated refrigerants can cause the appliance to:","Last longer","Cool less efficiently","Optimize cooling","None of these",B
+"If a household freezer contains R-22, we can retrofit it to operate on:","R-12","R-600A","R‑407A","None of these",C
+"If we find refrigerant that is mixed, what should we do?","Destroy it","Send it to the EPA to be reclaimed","Send it to SkillCat to be reclaimed","Send it to a certified reclaiming facility to be reclaimed",D
+"If we use nitrogen to pressurize a system or blow debris out (after fully recovering the refrigerant in the appliance), we can?","Recover the nitrogen into the same recovery tank as the refrigerant","Vent the nitrogen","Vent the refrigerant because it’s useless","All of these",B
+"What is isobutane?","R-290","An acceptable substitute for all household refrigerators and freezers","An unacceptable substitute for new household refrigerators and freezers","An acceptable substitute for new household refrigerators and freezers",D
+"New household refrigerators and freezers can be factory charged with?","R-600a","R-290","Both A and B","None of these",C
+"Small appliances include:","Commercial freezers","Commercial refrigerators","Window AC units","All of these",C
+"Up to how many pounds of refrigerant can Type I appliances contain?",3,5,15,50,B
+"Which of the following statements about hydrocarbons is NOT correct?","Hydrocarbons are acceptable substitutes for retrofit applications","Hydrocarbons are highly flammable","Hydrocarbons can only be factory charged","Hydrocarbons are acceptable substitutes with use conditions",A
+"Which of the following is not true?","SNAP lists acceptable substitutes for phased out refrigerants for different categories of end-uses","SNAP is implemented by the EPA","Refrigerants can be classified as unacceptable under SNAP","None of these",D
+"Which of the following statements is true about refrigerant recovery?","You can only sell refrigerant that is reclaimed to virgin specifications","Reclaimers can refuse to accept contaminated refrigerant","Reclaimers can charge extra for processing contaminated refrigerant","All of these",D
+"Which of the following refrigerants is not covered by the sales restriction of Section 608?","R-717","R-134a","R-22","R-12",A
+"Which of these can be vented?","R-717","R-744","R-728","R-134a",A
+"Do you expect to see R-22 listed as an acceptable substitute under the SNAP program?",True,False,,,B
+"Do you expect to see R-404a in household refrigerators and freezers?",True,False,,,A
+"Do you expect to see R-407c in new household refrigerators and freezers?",True,False,,,B
+"For R-22, there are no drop-in substitutes.",True,False,,,A
+"Hermetically sealed systems are systems that cannot lose refrigerant.",True,False,,,B
+"If a humidifier has 60 ounces of R-32, it is considered a Type I appliance under Section 608.",True,False,,,A
+"If a humidifier has 90 ounces of R-32, it is considered a Type I appliance under Section 608.",True,False,,,B
+"If a water cooler has 14 ounces of R-134a, it is considered a Type I appliance under Section 608.",True,False,,,A
+"If I don’t have Section 608 certification, I can buy 3 lb cans of R-134a.",True,False,,,B
+"If we have two HFC refrigerants, we can use the same recovery cylinder because they are the same type of refrigerant.",True,False,,,B
+"Low loss fittings are required for servicing systems containing ODS in order to comply with the Venting Prohibition.",True,False,,,A
+"MVACs are considered Type I appliances under Section 608 but MVAC-like systems are not.",True,False,,,B
+"New household refrigerators and freezers containing R-290 can contain 3 lbs of refrigerant.",True,False,,,B
+"Nitrogen can be used to pressurize or blow debris out of a system containing a half charge of refrigerant.",True,False,,,B
+"Only refrigerant blends without HFCs are acceptable under the SNAP program.",True,False,,,B
+"R-450a is an acceptable substitute for use in new household refrigerators and freezers under SNAP. This means new household refrigerators and freezers can be factory charged with R-450a.",True,False,,,A
+"Section 608 is part of the Clean Air Act.",True,False,,,A
+"The SNAP program could label refrigerant A as an acceptable substitute for use in a chiller but an unacceptable substitute for vending machines.",True,False,,,A
+"Trace gases used for leak detection cannot be vented because they contain ODS.",True,False,,,B
+"A system with a total refrigerant charge of exactly 3 lb is classified as Type I.",True,False,,,A
+"All Type I small appliances must be charged by the technician before first use.",True,False,,,B
+"We can retrofit an old appliance to operate on 2 lbs of R-600a.",True,False,,,B
+"We only have to recover refrigerants before servicing systems containing CFCs and HCFCs.",True,False,,,B

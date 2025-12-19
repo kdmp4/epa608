@@ -243,3 +243,28 @@ Polyolester oils are great because they can mix with a lot of other oils.,False,
 "System dependent recovery captures refrigerant in a pressurized container to keep it fresh.",True,False,,,B
 "We generally want to leak test access fittings after refrigerant recovery to make sure it does not have leaks for the next service. This is to save us time from leak testing the access fitting the next time around.",True,False,,,B
 "When the compressor is not working and we are performing passive recovery, we need to access the system from both the high and low side.",True,False,,,A
+"If a recovery device cannot achieve a 4-inch vacuum, which one of the following does it have to be able to do in order to be used with Type I small appliances?","Recover 80% of refrigerant with a working compressor","Recover 80% of refrigerant with a non-working compressor","Recover 90% of refrigerant with a working compressor","Recover 90% of refrigerant with a non-working compressor",B
+"If the oil is contaminated, what do we have to do?","Flush the system","Flush the compressor","Flush the recovery device","All of these",A
+"Non-condensables would ____ the pressure on the high side of an active recovery device.","Increase","Decrease","Have no effect on",,A
+"Recovery devices are tested and certified by:","AHRI only","ASHRAE only","Both AHRI and UL","AHRI, UL, and the EPA",C
+"The refrigerant vented off the top of charging cylinders needs to be recovered if it is:","An ozone depleting substance like HCFC","An HFC","A non-exempt substitute","All of these",D
+"Vacuum pumps can be used to:","Recover refrigerant","Remove air and other non-condensables","Release refrigerant into the atmosphere","Both (a) and (c)",B
+"What are the signs of refrigerant contamination?","Discolored oil","Acidic smell","Both (a) and (b)","None of these",C
+"What does the process stub look like in small appliances?","A straight piece of tubing","A straight piece of wiring","A round piece of tubing","None of these",A
+"What piece of equipment should we check regularly for leaks?","Recovery device","Recovery vacuum pump","Access fittings","All of these",A
+"When the system pressure is found to be 0 psig, what does this indicate?","There has been a leak","There is minimal refrigerant left in the appliance","We cannot recover refrigerant","All of these",D
+"Which of the following indicates a compressor burnout in a sealed system?","A pungent smell","A pungent, sweet smell","A pungent taste","All of these",A
+"Which of the following statements is true for small appliances?","The EPA requires repair of all leaks above 80% of the leak rate","The EPA does not require repair of leaking small appliances","The AHRI Standard 740 requires repair of leaks","You should not repair leaking small appliances",B
+"Which of the following would remove non-condensables from a system?","Filter driers","Flushing the system","Both (a) and (b)",,C
+"A recovery device has to achieve a 4-inch vacuum in all circumstances.",True,False,,,B
+"All recovery devices need to be tested at a place called AHRI Standard 740.",True,False,,,B
+"At high temperatures, what do CFCs and HCFCs decompose to?","Hydrochloric and hydrofluoric acids","Hydrocarbon and hydrofluorocarbons","Chloric and fluoric acids","All of these",A
+"Burning CFCs and HCFCs can:","Create toxic vapors that are harmful to inhale","Will produce phosgene gas","Result from cutting or welding pipes containing residual refrigerant","All of these",D
+"If refrigerant has been released, what is the first thing you should do?","Locate an exit","Locate a self-contained breathing apparatus","Locate a specially contained breathing apparatus","Locate the leak to stop the fill of dangerous refrigerant",B
+"If we cannot find a SCBA, what should we do?","Locate an exit","Vacate the area","Ventilate the area","All of these",D
+"Safety markings used in appliances with hydrocarbon refrigerants are:","Applied by technicians to warn other technicians","Permanently made on the equipment during manufacturing","Have to be put on equipment permanently by technicians","All of these",B
+"Why must technicians treat refrigerant cylinders as potential explosion hazards?","The steel shell reacts with moisture to create hydrogen","Cylinders absorb room heat, which weakens the shell","Valves always leak after transport, raising pressure","They are stored under pressure and can rupture violently",D
+"What piece of equipment is needed on nitrogen tanks when using them to service an appliance?","Refrigerant thermometer","Pressure regulator","Manual gauge","All of these",B
+"When do we need to use safety eyewear and butyl-lined gloves?","When testing the quality of refrigerant","When moving refrigerant cylinders","When connecting and disconnecting hoses","When taring the refrigerant scale",C
+"Which of the following are areas that do not need to be marked when it comes to appliances that contain HCs?","Outside the refrigerator","Evaporators","Exposed tubing","Inside refrigerator door",D
+"Which of the following is needed to protect your hands from refrigerant burns?","Cotton gloves","Butyl-lined gloves","Triple layered gloves","Any of the above",B
